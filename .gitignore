@@ -1,5 +1,6 @@
 __pycache__
 __init__.py
+jesuscristo
 errors*
 loader*
-local.py
+*.log
